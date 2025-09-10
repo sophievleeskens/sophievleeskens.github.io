@@ -23,3 +23,7 @@ ul li a {
 ul li a:hover {
     background-color: darkblue;
 }
+
+ul li a.active {
+    background-color: darkblue;
+}

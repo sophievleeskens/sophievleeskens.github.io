@@ -27,3 +27,7 @@ ul li a:hover {
 ul li a.active {
     background-color: darkblue;
 }
+
+p {
+    width: 20%;
+}

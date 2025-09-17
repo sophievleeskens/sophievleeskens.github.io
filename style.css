@@ -31,3 +31,7 @@ ul li a.active {
 p a.tekst {
     width: 40%;
 }
+
+p a.binair {
+    width: 60%;
+}

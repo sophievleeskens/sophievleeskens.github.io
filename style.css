@@ -28,6 +28,6 @@ ul li a.active {
     background-color: darkblue;
 }
 
-p {
+p a.tekst {
     width: 40%;
 }

@@ -37,10 +37,11 @@ p.binair {
 }
 
 img {
-    width: 50%;   
+    width: 45%;   
 }
 
 iframe {
     width: 50%;
-    margin-left: 55%;
+    margin-left: 50%;
+    padding-right: 10px;
 }

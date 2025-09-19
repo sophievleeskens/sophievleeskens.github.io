@@ -38,6 +38,7 @@ p.binair {
 
 img {
     width: 45%;   
+    max-height: fit-content;
 }
 
 iframe {

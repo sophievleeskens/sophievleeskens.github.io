@@ -28,6 +28,26 @@ ul li a.active {
     background-color: darkblue;
 }
 
+
+p.tekst {
+    width: 40%;
+}
+
+p.binair {
+    width: 60%;
+}
+
+img {
+    width: 50%;   
+    max-height: fit-content;
+}
+
+iframe {
+    width: 50%;
+    padding-right: 10px;
+}
+
+
 .tweede-deel-menu {
     position: absolute;
     top: 30px;
@@ -47,22 +67,4 @@ ul li a.active {
 
 .tweede-deel-menu:hover {
     background-color: darkblue;
-}
-
-p.tekst {
-    width: 40%;
-}
-
-p.binair {
-    width: 60%;
-}
-
-img {
-    width: 50%;   
-    max-height: fit-content;
-}
-
-iframe {
-    width: 50%;
-    padding-right: 10px;
 }

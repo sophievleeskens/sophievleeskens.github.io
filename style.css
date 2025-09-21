@@ -28,7 +28,7 @@ ul li a.active {
     background-color: darkblue;
 }
 
-ul.tweede-deel-menu {
+.tweede-deel-menu {
     position: absolute;
     top: 30px;
     left: 0;

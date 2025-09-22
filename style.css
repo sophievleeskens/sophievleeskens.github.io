@@ -28,6 +28,11 @@ ul li a.active {
     background-color: darkblue;
 }
 
+.eerste-deel-menu li:hover > ul
+{
+    display: inline;
+}
+
 
 p.tekst {
     width: 55%;
@@ -67,5 +72,4 @@ iframe {
 
 .tweede-deel-menu:hover {
     background-color: darkblue;
-    display: inline;
 }

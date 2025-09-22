@@ -70,6 +70,7 @@ iframe {
     background: deeppink;
 }
 
-.tweede-deel-menu:hover {
-    background-color: darkblue;
+
+.second-level-menu > li:hover { 
+    background: darkblue 
 }

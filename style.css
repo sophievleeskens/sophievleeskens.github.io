@@ -67,4 +67,5 @@ iframe {
 
 .tweede-deel-menu:hover {
     background-color: darkblue;
+    display: inline;
 }

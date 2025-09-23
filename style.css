@@ -53,24 +53,6 @@ iframe {
 }
 
 
-.tweede-deel-menu {
-    position: absolute;
-    top: 30px;
-    left: 0;
-    width: 150px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: none;
-}
-
-.tweede-deel-menu > li {
-    position: relative;
-    height: 30px;
-    background: deeppink;
-}
 
 
-.tweede-deel-menu > li:hover { 
-    background: darkblue 
-}
+

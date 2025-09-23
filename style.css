@@ -28,11 +28,6 @@ ul li a.active {
     background-color: darkblue;
 }
 
-.eerste-deel-menu li:hover > ul
-{
-    display: inline;
-}
-
 
 p.tekst {
     width: 55%;

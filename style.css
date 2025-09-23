@@ -5,8 +5,8 @@ body {
 
 ul {
     list-style-type: none; /* geen puntjes voor het menu */
-    margin: 0; /* haalt standaard ruimte weg */
-    padding: 0; /* haalt standaard opvulling weg */
+    margin: 0; /* haalt ruimte tussen de andere elementen weg */
+    padding: 0; /* haalt ruimte binnen het menu weg */
     overflow: hidden; /* zorgt dat het binnen het venster blijft */
     background-color: deeppink;
 }
@@ -18,7 +18,7 @@ ul li a {
     color: white;
     text-align: center; /* tekst komt in het midden van het blok */
     padding: 14px 16px;
-    text-decoration: none; /* zorgt dat er geen tekst decoratie wordt toegevoegd aan de tekst */
+    text-decoration: none; /* verwijderd standaard onderstreping van de link weg*/
 }
 ul li a:hover /* als je over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
     background-color: darkblue;

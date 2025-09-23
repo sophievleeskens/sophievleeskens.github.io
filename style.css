@@ -17,7 +17,7 @@ ul li a {
     display: block; /* maakt het vakje waar de tekst in staat een blok */ 
     color: white;
     text-align: center; /* tekst komt in het midden van het blok */
-    padding: 14px 16px;
+    padding: 14px 16px;  /* creërt ruimte tussen de inhoud en de rand van het element */
     text-decoration: none; /* verwijderd standaard onderstreping van de link weg*/
 }
 ul li a:hover /* als je over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
@@ -39,11 +39,11 @@ p.binair /* breedte van mijn tekst op de rest van de pagina */ {
 
 img {
     width: 50%;   /* breedte */
-    max-height: fit-content;
+    max-height: fit-content;  /* de maximale hoogte past zich aan */
 }
 
 iframe {
-    width: 50%;
+    width: 50%; /* creert ruimte buiten het element zodat het afstand krijgt van andere elementen */
     padding-right: 10px;
 }
 

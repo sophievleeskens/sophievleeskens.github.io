@@ -1,44 +1,44 @@
 body {
-    background-color: rgb(255, 211, 232);
-    color: black;
+    background-color: rgb(255, 211, 232);  /* achtergrondkleur */
+    color: black;  /* letterkleur*/ 
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    list-style-type: none; /* geen puntjes voor het menu */
+    margin: 0; /* haalt standaard ruimte weg */
+    padding: 0; /* haalt standaard opvulling weg */
+    overflow: hidden; /* zorgt dat het binnen het venster blijft */
     background-color: deeppink;
 }
 ul li {
-    float: left;
+    float: left; /* zorgt voor horizontaal menu aan de linkerkant  */
 }
 ul li a {
-    display: block;
+    display: block; /* maakt het vakje waar de tekst in staat een blok */ 
     color: white;
-    text-align: center;
+    text-align: center; /* tekst komt in het midden van het blok */
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none; /* zorgt dat er geen tekst decoratie wordt toegevoegd aan de tekst */
 }
-ul li a:hover {
+ul li a:hover /* als je over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
     background-color: darkblue;
 }
 
-ul li a.active {
+ul li a.active /* op de pagina waar je bent heeft een andere kleur dan de rest van het menu */ {
     background-color: darkblue;
 }
 
 
-p.tekst {
+p.tekst /* breedte van mijn tekst op de home pagina */ {
     width: 55%;
 }
 
-p.binair {
+p.binair /* breedte van mijn tekst op de rest van de pagina */ {
     width: 60%;
 }
 
 img {
-    width: 50%;   
+    width: 50%;   /* breedte */
     max-height: fit-content;
 }
 

@@ -49,6 +49,7 @@ iframe {
 
 img.RGB {
     width: 30%;
+    float: right;
 }
 
 img.CMY {

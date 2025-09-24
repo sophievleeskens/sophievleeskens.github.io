@@ -20,11 +20,11 @@ ul li a {
     padding: 14px 16px;  /* creërt ruimte tussen de inhoud en de rand van het element */
     text-decoration: none; /* verwijderd standaard onderstreping van de link weg*/
 }
-ul li a:hover /* als je over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
+ul li a:hover /* als je met je muis over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
     background-color: darkblue;
 }
 
-ul li a.active /* op de pagina waar je bent heeft een andere kleur dan de rest van het menu */ {
+ul li a.active /* op de pagina waar je bent heeft het blokje van die pagina in het menu een andere kleur*/ {
     background-color: darkblue;
 }
 

@@ -37,7 +37,7 @@ p.binair /* breedte van mijn tekst op de rest van de pagina */ {
     width: 60%;
 }
 
-img {
+img.ascii {
     width: 50%;   /* breedte */
     max-height: fit-content;  /* de maximale hoogte past zich aan */
 }

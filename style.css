@@ -55,6 +55,9 @@ img.CMY {
     width: 40%;
 }
 
-
+img.compression {
+    width: 30%;
+    float: right;
+}
 
 

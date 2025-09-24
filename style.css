@@ -44,7 +44,7 @@ img {
 
 iframe {
     width: 50%; /* creert ruimte buiten het element zodat het afstand krijgt van andere elementen */
-    padding-right: 10px;
+    padding-right: 10px; /* zorgt voor padding aan de rechter kant van het spel */
 }
 
 

@@ -62,4 +62,8 @@ img.compression {
     margin-right: 10px;
 }
 
+img.vector-bitmap {
+    float: right;
+    width: 25%;
+}
 

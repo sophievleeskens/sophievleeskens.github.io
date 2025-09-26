@@ -68,3 +68,7 @@ img.vector-bitmap {
     margin-right: 10px;
 }
 
+div.dashed {
+    border-style: dashed;
+}
+

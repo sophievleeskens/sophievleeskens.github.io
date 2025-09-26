@@ -69,7 +69,7 @@ img.vector-bitmap {
     margin-right: 10px;
 }
 
-div.dashed {
-    border-style: dashed;
+div.dashed { 
+    border-style: dotted; /* hiermee kan je een border om een element zetten */
 }
 

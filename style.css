@@ -73,3 +73,8 @@ div.dashed {
     border-style: dotted; /* hiermee kan je een border om een element zetten */
 }
 
+iframe.video {
+    width: 40%;
+    float: right;
+}
+

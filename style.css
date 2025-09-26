@@ -31,7 +31,7 @@ ul li a.active /* op de pagina waar je bent heeft het blokje van die pagina in h
 
 p.tekst /* breedte van mijn tekst op de home pagina */ {
     width: 55%;
-    border-style: solid;
+    border-style: solid; /* hiermee kan je een border om een element zetten */
 }
 
 p.binair /* breedte van mijn tekst op de rest van de pagina */ {
@@ -71,7 +71,7 @@ img.vector-bitmap {
 }
 
 div.dashed { 
-    border-style: dotted; /* hiermee kan je een border om een element zetten */
+    border-style: dotted; 
     padding: 20px;
     margin: 20px;
 }

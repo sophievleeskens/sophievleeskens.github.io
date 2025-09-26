@@ -31,6 +31,7 @@ ul li a.active /* op de pagina waar je bent heeft het blokje van die pagina in h
 
 p.tekst /* breedte van mijn tekst op de home pagina */ {
     width: 55%;
+    border-style: solid;
 }
 
 p.binair /* breedte van mijn tekst op de rest van de pagina */ {

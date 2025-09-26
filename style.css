@@ -15,7 +15,7 @@ ul li {
 }
 ul li a {
     display: block; /* maakt het vakje waar de tekst in staat een blok */ 
-    color: white;
+    color: black;
     text-align: center; /* tekst komt in het midden van het blok */
     padding: 14px 16px;  /* creërt ruimte tussen de inhoud en de rand van het element */
     text-decoration: none; /* verwijderd standaard onderstreping van de link weg*/

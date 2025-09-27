@@ -10,9 +10,11 @@ ul {
     overflow: hidden; /* zorgt dat het binnen het venster blijft */
     background-color: deeppink;
 }
+
 ul li {
     float: left; /* zorgt voor horizontaal menu aan de linkerkant  */
 }
+
 ul li a {
     display: block; /* maakt het vakje waar de tekst in staat een blok */ 
     color: white;
@@ -20,6 +22,7 @@ ul li a {
     padding: 14px 16px;  /* creërt ruimte tussen de inhoud en de rand van het element */
     text-decoration: none; /* verwijderd standaard onderstreping van de link weg*/
 }
+
 ul li a:hover /* als je met je muis over het menu gaat krijgt die een andere kleur namelijk donker blauw */ {
     background-color: darkblue;
 }
